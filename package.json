@@ -1,0 +1,27 @@
+{
+  "name": "gmt-jam",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --base=./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parthsharma365628/GMT-JAM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/parthsharma365628/GMT-JAM/issues"
+  },
+  "homepage": "https://github.com/parthsharma365628/GMT-JAM#readme",
+  "dependencies": {
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "vite": "^7.3.8"
+  }
+}
